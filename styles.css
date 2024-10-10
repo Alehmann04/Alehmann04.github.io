@@ -2,7 +2,31 @@
     font-family: Fallout4;
     src: url(ShareTechMono-Regular.ttf);
   }
+
+a:link {
+    color: #4fad3c;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #e46d31;
+    background-color: transparent;
+    text-decoration: none;
+}
   
+a:hover {
+    color: #ac6bdd;
+    background-color: transparent;
+    text-decoration: underline;
+}
+  
+a:active {
+    color: #e46d31;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
 div {
     font-family: Fallout4;
 }
